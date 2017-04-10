@@ -1,0 +1,21 @@
+body {
+	background-color: lightgrey;
+	text-align: center;
+}
+
+article {
+	margin: 5px 5% 5px 5%;
+}
+
+li {
+	display: inline-block;
+}
+
+header {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+section {
+	margin-top: 5%;
+}
